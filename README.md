@@ -1,6 +1,7 @@
 ## Overview
 
 This is a modern full-stack Next 13 application built and deployed following a step by step tutorial video from JavaScript Mastery on YouTube (https://www.youtube.com/watch?v=wm5gMKuwSYk&t=2450s).
+![Screenshot 2023-07-15 at 17 19 39](https://github.com/pacoguerraq/promptopia/assets/65269829/45e234ce-6d46-4ade-9b19-e3a52f8d2358)
 
 ## Description
 
