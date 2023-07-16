@@ -7,6 +7,8 @@ This is a modern full-stack Next 13 application built and deployed following a s
 
 Promptopia is an open-source AI prompting tool for modern world to discover, create and share creative prompts. You can log in with your google account and start sharing amazing prompts with the world. You will also have the ability to view other people's posts.
 
+This site is deployed in https://promptopia-nu-henna.vercel.app/
+
 ## Tech stack
 
 This project is a full-stack application made with Next js 13, using the new app router. All information and data is stored in a MongoDB database. There is Google Authentication.
